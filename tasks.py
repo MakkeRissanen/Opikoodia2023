@@ -36,6 +36,7 @@ def checkFirstAndLast(array):
     print("true")
   else:
     print("false")
+testi
 
 
 
